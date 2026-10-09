@@ -1,0 +1,483 @@
+ride_id	started_at	ended_at	start_station_name	start_station_id	end_station_name	end_station_id	member_casual	ride_length_min	day_name	hour
+21742549	01-01-2019 02:21	02-01-2019 09:35	Damen Ave & Pierce Ave	69	Sheffield Ave & Fullerton Ave	67	casual	1874.43	Tuesday	2
+21742597	01-01-2019 04:07	02-01-2019 06:37	Spaulding Ave & Armitage Ave	506	Spaulding Ave & Armitage Ave	506	casual	1590.50	Tuesday	4
+21743687	01-01-2019 16:10	04-01-2019 15:34	Michigan Ave & Jackson Blvd	284	Shedd Aquarium	3	casual	4283.60	Tuesday	16
+21744333	02-01-2019 05:47	03-01-2019 09:43	Halsted St & Archer Ave	206	Wells St & Hubbard St	212	casual	1676.53	Wednesday	5
+21752036	03-01-2019 13:47	05-01-2019 06:44	Dearborn St & Erie St	110	Clark St & Elm St	176	casual	2456.78	Thursday	13
+21754826	03-01-2019 18:48	04-01-2019 20:33	Michigan Ave & Washington St	43	Wabash Ave & Adams St	39	member	1544.92	Thursday	18
+21755853	04-01-2019 06:43	13-01-2019 15:38	Clark St & Elm St	176	Western Ave & Walton St	374	member	13494.95	Friday	6
+21759517	04-01-2019 15:08	06-01-2019 16:50	Damen Ave & Pierce Ave	69	Damen Ave & Division St	130	casual	2982.77	Friday	15
+21762441	04-01-2019 18:50	06-01-2019 16:06	Sedgwick St & North Ave	118	Sedgwick St & North Ave	118	member	2715.95	Friday	18
+21764881	05-01-2019 12:02	19-01-2019 18:01	Wabash Ave & Roosevelt Rd	59	Fairbanks Ct & Grand Ave	24	member	20519.70	Saturday	12
+21764967	05-01-2019 12:11	10-01-2019 11:25	Dearborn Pkwy & Delaware Pl	140	DIVVY Map Frame B/C Station	360	member	7154.38	Saturday	12
+21765657	05-01-2019 13:10	10-01-2019 19:37	Canal St & Jackson Blvd	75	Racine Ave & 18th St	15	member	7586.70	Saturday	13
+21767725	05-01-2019 15:32	06-01-2019 15:53	State St & Randolph St	44	Larrabee St & Armitage Ave	288	casual	1461.00	Saturday	15
+21768119	05-01-2019 16:02	07-01-2019 18:59	Montrose Harbor	249	Lake Shore Dr & Wellington Ave	157	member	3056.90	Saturday	16
+21772410	06-01-2019 14:25	09-01-2019 15:22	Michigan Ave & Washington St	43	Michigan Ave & 14th St	168	member	4377.25	Sunday	14
+21778029	07-01-2019 17:36	13-01-2019 17:36	Clinton St & Washington Blvd	91	Clark St & Armitage Ave	94	casual	8640.58	Monday	17
+21785964	08-01-2019 17:42	09-01-2019 18:52	Clifton Ave & Armitage Ave	223	Southport Ave & Roscoe St	229	member	1509.58	Tuesday	17
+21786494	08-01-2019 18:21	13-01-2019 20:35	Wells St & Hubbard St	212	Wells St & Hubbard St	212	member	7334.48	Tuesday	18
+21788825	09-01-2019 08:22	10-01-2019 09:59	Chicago Ave & Sheridan Rd	603	Chicago Ave & Sheridan Rd	603	member	1537.25	Wednesday	8
+21789079	09-01-2019 08:41	10-01-2019 09:29	Evanston Civic Center	661	Evanston Civic Center	661	member	1488.45	Wednesday	8
+21790017	09-01-2019 12:16	11-01-2019 09:56	Kimbark Ave & 53rd St	322	Lake Park Ave & 56th St	345	casual	2740.23	Wednesday	12
+21793318	09-01-2019 21:45	15-01-2019 12:15	Damen Ave & Madison St	215	Damen Ave & Madison St	215	member	8069.87	Wednesday	21
+21793408	09-01-2019 23:37	11-01-2019 10:12	Broadway & Barry Ave	300	Kimball Ave & Belmont Ave	497	member	2074.78	Wednesday	23
+21799494	10-01-2019 22:50	14-01-2019 07:07	Daley Center Plaza	81	Dearborn St & Erie St	110	member	4816.38	Thursday	22
+21806164	12-01-2019 01:42	13-01-2019 19:07	Clark St & Elm St	176	Clark St & Lake St	38	member	2484.80	Saturday	1
+21806278	12-01-2019 06:56	15-01-2019 06:26	Larrabee St & Webster Ave	144	Larrabee St & Webster Ave	144	member	4289.30	Saturday	6
+21807349	12-01-2019 13:59	13-01-2019 14:22	LaSalle St & Jackson Blvd	283	Michigan Ave & Lake St	52	member	1463.28	Saturday	13
+21807581	12-01-2019 16:21	14-01-2019 15:51	Elston Ave & Wabansia Ave	315	Elston Ave & Wabansia Ave	315	member	2850.28	Saturday	16
+21809990	13-01-2019 20:36	22-01-2019 08:52	Kingsbury St & Erie St	74	Loomis St & Taylor St (*)	19	member	12256.25	Sunday	20
+21810117	13-01-2019 23:21	17-01-2019 15:00	State St & 79th St	573	State St & 79th St	573	member	5259.48	Sunday	23
+21812354	14-01-2019 11:49	18-01-2019 21:05	Ellis Ave & 53rd St	418	Clinton St & Madison St	77	casual	6316.23	Monday	11
+21822699	16-01-2019 07:25	18-01-2019 17:34	Canal St & Adams St	192	State St & Kinzie St	47	member	3489.27	Wednesday	7
+21823975	16-01-2019 08:58	05-02-2019 19:12	McClurg Ct & Erie St	142	State St & Kinzie St	47	casual	29414.03	Wednesday	8
+21827867	16-01-2019 18:37	24-01-2019 11:34	Sheffield Ave & Wellington Ave	115	Kosciuszko Park	499	member	11096.93	Wednesday	18
+21830513	17-01-2019 08:53	22-01-2019 18:34	Ashland Ave & Division St	210	Ashland Ave & Blackhawk St	333	member	7781.12	Thursday	8
+21830791	17-01-2019 09:25	18-01-2019 09:49	Bissell St & Armitage Ave	113	Bissell St & Armitage Ave	113	member	1464.85	Thursday	9
+21830992	17-01-2019 09:59	18-01-2019 12:18	Rush St & Hubbard St	125	Franklin St & Jackson Blvd	36	member	1579.12	Thursday	9
+21833010	17-01-2019 16:41	18-01-2019 17:29	LaSalle Dr & Huron St (*)	627	State St & Pearson St	106	member	1488.00	Thursday	16
+21838448	18-01-2019 13:49	20-01-2019 10:33	Prairie Ave & 43rd St	410	Cottage Grove Ave & 47th St	336	member	2684.05	Friday	13
+21839757	18-01-2019 16:55	06-02-2019 08:02	Damen Ave & Leland Ave	242	Damen Ave & Leland Ave	242	member	26827.00	Friday	16
+21842257	20-01-2019 10:47	19-02-2019 11:02	LaSalle Dr & Huron St (*)	627	DIVVY Map Frame B/C Station	360	member	43214.65	Sunday	10
+21842737	20-01-2019 16:32	21-01-2019 18:15	Peoria St & Jackson Blvd	134	Kingsbury St & Kinzie St	133	member	1543.10	Sunday	16
+21843024	20-01-2019 21:44	23-01-2019 11:18	Canal St & Taylor St	414	Canal St & Taylor St	414	member	3694.27	Sunday	21
+21844570	21-01-2019 17:23	23-01-2019 19:23	Kedzie Ave & Milwaukee Ave	260	Washtenaw Ave & Ogden Ave (*)	437	member	3000.70	Monday	17
+21845123	21-01-2019 23:07	28-03-2019 08:30	Wentworth Ave & 63rd St	390	Wentworth Ave & Cermak Rd (Temp)	120	member	94162.97	Monday	23
+21847649	22-01-2019 16:51	25-01-2019 13:22	Canal St & Adams St	192	Canal St & Adams St	192	member	4111.08	Tuesday	16
+21850741	23-01-2019 16:22	26-01-2019 09:00	Halsted St & Polk St	108	Halsted St & Polk St	108	member	3877.90	Wednesday	16
+21854147	24-01-2019 12:10	26-01-2019 12:35	Clark St & Randolph St	51	Clark St & Schiller St	301	member	2904.88	Thursday	12
+21855042	24-01-2019 16:43	25-01-2019 20:19	Franklin St & Monroe St	287	Franklin St & Monroe St	287	member	1655.77	Thursday	16
+21855379	24-01-2019 17:21	25-01-2019 17:57	Dearborn St & Adams St	37	Dearborn St & Adams St	37	member	1475.48	Thursday	17
+21855755	24-01-2019 18:12	25-01-2019 20:14	Clark St & Ida B Wells Dr	50	Clark St & Ida B Wells Dr	50	member	1562.07	Thursday	18
+21856329	24-01-2019 22:06	26-01-2019 16:09	Wells St & Concord Ln	289	Clark St & Schiller St	301	member	2523.03	Thursday	22
+21856881	25-01-2019 08:16	01-02-2019 09:45	Halsted St & Wrightwood Ave	349	Halsted St & Wrightwood Ave	349	member	10169.75	Friday	8
+21858196	25-01-2019 16:51	27-01-2019 10:21	Fairbanks Ct & Grand Ave	24	Fairbanks Ct & Grand Ave	24	member	2489.23	Friday	16
+21859088	26-01-2019 11:29	27-01-2019 13:46	Lake Shore Dr & North Blvd	268	Lake Shore Dr & North Blvd	268	member	1576.88	Saturday	11
+21859448	26-01-2019 14:16	31-01-2019 12:14	California Ave & Division St	216	Paulina St & 18th St	205	member	7078.00	Saturday	14
+21859719	26-01-2019 16:52	27-01-2019 17:37	Wabash Ave & Grand Ave	199	Wabash Ave & Grand Ave	199	member	1484.57	Saturday	16
+21859854	26-01-2019 19:18	04-02-2019 21:00	LaSalle Dr & Huron St (*)	627	LaSalle Dr & Huron St (*)	627	member	13061.75	Saturday	19
+21860037	27-01-2019 08:55	28-01-2019 09:05	Lake Park Ave & 56th St	345	Lake Park Ave & 56th St	345	member	1449.83	Sunday	8
+21860733	27-01-2019 15:47	29-01-2019 06:16	Ellis Ave & 55th St	420	Ellis Ave & 55th St	420	member	2308.53	Sunday	15
+21862279	28-01-2019 17:53	29-01-2019 21:57	Cornell Ave & Hyde Park Blvd	417	Cornell Ave & Hyde Park Blvd	417	member	1684.10	Monday	17
+21862602	29-01-2019 05:31	30-01-2019 09:03	Wood St & Augusta Blvd	657	Wood St & Augusta Blvd	657	member	1652.07	Tuesday	5
+21862781	29-01-2019 07:49	30-01-2019 09:30	Morgan St & 18th St	14	Morgan St & 18th St	14	member	1540.90	Tuesday	7
+21862962	29-01-2019 08:52	30-01-2019 09:22	Ada St & Washington Blvd	346	Ada St & Washington Blvd	346	member	1469.62	Tuesday	8
+21863018	29-01-2019 09:09	30-01-2019 14:05	Albany Ave & Bloomingdale Ave	511	Albany Ave & Bloomingdale Ave	511	member	1735.58	Tuesday	9
+21863078	29-01-2019 09:42	30-01-2019 14:54	Ada St & Washington Blvd	346	Ada St & Washington Blvd	346	member	1752.88	Tuesday	9
+21863219	29-01-2019 11:21	01-02-2019 12:22	Clark St & Lake St	38	Daley Center Plaza	81	member	4380.38	Tuesday	11
+21863238	29-01-2019 11:28	30-01-2019 11:55	Clark St & Lunt Ave	432	Clark St & Lunt Ave	432	member	1466.28	Tuesday	11
+21863240	29-01-2019 11:30	30-01-2019 11:49	Ada St & Washington Blvd	346	Ada St & Washington Blvd	346	member	1459.60	Tuesday	11
+21863333	29-01-2019 12:43	31-01-2019 14:26	Dearborn St & Erie St	110	Dearborn St & Erie St	110	member	2982.47	Tuesday	12
+21863580	29-01-2019 14:08	30-01-2019 15:55	Daley Center Plaza	81	Daley Center Plaza	81	member	1546.53	Tuesday	14
+21863594	29-01-2019 16:20	30-01-2019 16:35	Desplaines St & Jackson Blvd	107	Desplaines St & Jackson Blvd	107	member	1454.30	Tuesday	16
+21863658	29-01-2019 16:46	31-01-2019 15:15	Ada St & Washington Blvd	346	Ada St & Washington Blvd	346	member	2789.20	Tuesday	16
+21864139	30-01-2019 19:08	01-02-2019 10:58	Ashland Ave & Chicago Ave	350	Ashland Ave & Chicago Ave	350	member	2389.65	Wednesday	19
+21864159	30-01-2019 23:25	31-01-2019 23:41	Sedgwick St & Schiller St	236	Sedgwick St & Schiller St	236	member	1456.45	Wednesday	23
+21864228	31-01-2019 10:12	02-02-2019 05:24	Wood St & Augusta Blvd	657	Ashland Ave & Division St	210	member	2591.98	Thursday	10
+21864247	31-01-2019 11:24	01-02-2019 16:53	Clark St & Wrightwood Ave	340	Clark St & Wrightwood Ave	340	member	1769.20	Thursday	11
+21864290	31-01-2019 12:47	01-02-2019 21:12	Canal St & Monroe St (*)	191	Canal St & Monroe St (*)	191	member	1945.47	Thursday	12
+21864406	31-01-2019 15:35	01-02-2019 16:11	Green St & Madison St	198	Green St & Madison St	198	member	1476.22	Thursday	15
+21864448	31-01-2019 16:22	01-02-2019 17:33	Southport Ave & Wrightwood Ave	190	Sheffield Ave & Fullerton Ave	67	member	1510.48	Thursday	16
+21865076	01-02-2019 08:51	04-02-2019 13:11	California Ave & Montrose Ave	481	California Ave & Montrose Ave	481	member	4579.67	Friday	8
+21865082	01-02-2019 08:53	02-02-2019 09:44	Honore St & Division St	17	Honore St & Division St	17	member	1490.97	Friday	8
+21865117	01-02-2019 09:07	02-02-2019 11:12	Ada St & Washington Blvd	346	Ada St & Washington Blvd	346	member	1564.60	Friday	9
+21865561	01-02-2019 12:58	02-02-2019 14:34	Wolcott Ave & Polk St	342	Wolcott Ave & Polk St	342	member	1535.55	Friday	12
+21867916	02-02-2019 13:14	03-02-2019 14:58	Damen Ave & Pierce Ave	69	Damen Ave & Chicago Ave	128	member	1543.80	Saturday	13
+21868166	02-02-2019 14:16	03-02-2019 14:58	Damen Ave & Thomas St (Augusta Blvd)	183	Damen Ave & Chicago Ave	128	member	1482.28	Saturday	14
+21868976	02-02-2019 17:53	04-02-2019 06:22	Wells St & Elm St	182	Green St & Randolph St	112	member	2189.23	Saturday	17
+21869753	03-02-2019 09:27	04-02-2019 10:15	Throop St & 52nd St	556	Throop St & 52nd St	556	member	1487.28	Sunday	9
+21871850	03-02-2019 17:53	07-02-2019 08:59	Halsted St & Dickens Ave	225	Sheffield Ave & Kingsbury St	20	casual	5225.17	Sunday	17
+21876834	04-02-2019 17:11	05-02-2019 17:53	Clinton St & Madison St	77	Fairbanks Ct & Grand Ave	24	member	1482.07	Monday	17
+21877554	04-02-2019 17:50	06-02-2019 16:01	Wells St & Huron St	53	Milwaukee Ave & Grand Ave	84	member	2771.00	Monday	17
+21878086	04-02-2019 18:41	12-03-2019 15:36	Dearborn St & Erie St	110	LaSalle St & Jackson Blvd	283	member	51654.53	Monday	18
+21879798	05-02-2019 07:44	06-02-2019 12:19	Lincoln Ave & Roscoe St	230	Dayton St & North Ave	60	member	1715.00	Tuesday	7
+21881393	05-02-2019 11:01	06-02-2019 14:20	Mies van der Rohe Way & Chicago Ave	173	Dayton St & North Ave	60	member	1638.82	Tuesday	11
+21884889	05-02-2019 20:18	07-02-2019 10:23	Wentworth Ave & 63rd St	390	Wentworth Ave & 63rd St	390	member	2285.38	Tuesday	20
+21890543	06-02-2019 18:07	07-02-2019 21:26	Marshfield Ave & Cortland St	58	Milwaukee Ave & Rockwell St	222	member	1639.13	Wednesday	18
+21894590	07-02-2019 16:54	04-04-2019 23:45	Wabash Ave & Cermak Rd	42	Wabash Ave & Roosevelt Rd	59	casual	81051.13	Thursday	16
+21895545	07-02-2019 18:10	09-02-2019 10:49	Fairbanks St & Superior St (*)	635	Fairbanks Ct & Grand Ave	24	member	2438.37	Thursday	18
+21900340	08-02-2019 21:59	26-03-2019 09:47	Wells St & Elm St	182	Wells St & Concord Ln	289	member	65507.50	Friday	21
+21900496	09-02-2019 08:18	10-02-2019 10:57	State St & Randolph St	44	State St & Randolph St	44	member	1599.17	Saturday	8
+21902493	09-02-2019 17:40	25-02-2019 13:45	Rush St & Superior St	161	DIVVY Map Frame B/C Station	360	member	22805.18	Saturday	17
+21902773	09-02-2019 19:50	11-02-2019 11:06	Halsted St & Polk St	108	Racine Ave & 13th St	136	casual	2356.03	Saturday	19
+21903062	10-02-2019 02:23	15-02-2019 15:05	Aberdeen St & Randolph St	621	Ashland Ave & Grand Ave	277	casual	7962.07	Sunday	2
+21906188	11-02-2019 08:42	18-02-2019 12:54	Wacker Dr & Washington St	18	Wacker Dr & Washington St	18	member	10332.15	Monday	8
+21920842	14-02-2019 14:44	17-06-2019 16:04	Leavitt St & North Ave	213	DIVVY Map Frame B/C Station	360	casual	177200.37	Thursday	14
+21930011	16-02-2019 12:43	17-02-2019 15:48	Jefferson St & Monroe St	73	Jefferson St & Monroe St	73	member	1624.93	Saturday	12
+21930728	16-02-2019 16:02	21-02-2019 12:27	Burnham Harbor	4	Buckingham Fountain (Temp)	2	casual	6985.20	Saturday	16
+21930966	16-02-2019 17:11	19-02-2019 07:53	Field Museum	97	Indiana Ave & Roosevelt Rd	255	casual	3761.58	Saturday	17
+21934690	18-02-2019 16:51	20-02-2019 10:25	Clarendon Ave & Leland Ave	251	Marine Dr & Ainslie St	465	member	2493.90	Monday	16
+21941918	20-02-2019 08:28	21-02-2019 11:21	Desplaines St & Kinzie St	56	Desplaines St & Kinzie St	56	member	1612.87	Wednesday	8
+21950326	21-02-2019 18:06	27-02-2019 11:08	Halsted St & Wrightwood Ave	349	Sheffield Ave & Webster Ave	327	casual	8222.55	Thursday	18
+21957378	22-02-2019 20:45	24-02-2019 09:44	California Ave & 23rd Pl	442	Kedzie Ave & 21st St	439	casual	2219.25	Friday	20
+21958641	23-02-2019 14:26	25-02-2019 07:24	Clark St & Lake St	38	Prairie Ave & Garfield Blvd	204	member	2457.75	Saturday	14
+21962677	25-02-2019 10:09	26-02-2019 10:55	Indiana Ave & 26th St	147	Dearborn St & Van Buren St (*)	624	member	1486.33	Monday	10
+21966037	25-02-2019 23:49	01-03-2019 08:18	Damen Ave & Chicago Ave	128	Clinton St & Washington Blvd	91	casual	4828.48	Monday	23
+21979809	28-02-2019 15:18	05-03-2019 15:16	Clarendon Ave & Gordon Ter	312	Clark St & Drummond Pl	220	casual	7197.90	Thursday	15
+21981589	28-02-2019 18:37	09-03-2019 13:36	Cottage Grove Ave & 47th St	336	DIVVY CASSETTE REPAIR MOBILE STATION	361	member	12659.10	Thursday	18
+21982335	01-03-2019 00:51	02-03-2019 12:22	Pulaski Rd & Congress Pkwy	535	Pulaski Rd & Congress Pkwy	535	member	2130.77	Friday	0
+21989208	02-03-2019 12:22	12-03-2019 01:00	Ashland Ave & Wellington Ave	250	Leavitt St & North Ave	213	member	13718.10	Saturday	12
+21989817	02-03-2019 14:41	05-03-2019 21:16	Michigan Ave & Madison St	197	Streeter Dr & Grand Ave	35	casual	4715.17	Saturday	14
+21990694	02-03-2019 19:07	04-03-2019 13:22	State St & Randolph St	44	DIVVY Map Frame B/C Station	360	casual	2534.93	Saturday	19
+21991088	03-03-2019 02:26	04-03-2019 13:21	Stetson Ave & South Water St	264	Clark St & Lake St	38	casual	2095.08	Sunday	2
+21991089	03-03-2019 02:29	04-03-2019 08:40	Lincoln Ave & Roscoe St	230	Lincoln Ave & Fullerton Ave	127	casual	1811.52	Sunday	2
+21992291	03-03-2019 15:16	05-03-2019 08:46	Wilton Ave & Diversey Pkwy	13	Halsted St & Dickens Ave	225	member	2489.17	Sunday	15
+21992407	03-03-2019 15:54	05-03-2019 08:30	Wabash Ave & Roosevelt Rd	59	Michigan Ave & 18th St	273	member	2436.48	Sunday	15
+21996283	04-03-2019 18:38	06-03-2019 12:15	Clybourn Ave & Division St	138	Dearborn St & Adams St	37	casual	2496.87	Monday	18
+21996759	05-03-2019 05:43	06-03-2019 06:04	Clinton St & Lake St	66	Clinton St & Lake St	66	member	1461.30	Tuesday	5
+22003604	06-03-2019 13:10	09-03-2019 08:19	Dearborn St & Adams St	37	Lincoln Ave & Fullerton Ave	127	member	4028.47	Wednesday	13
+22009669	07-03-2019 14:12	08-03-2019 15:58	Loomis St & Lexington St	320	Hermitage Ave & Polk St	261	member	1546.13	Thursday	14
+22014560	08-03-2019 10:56	09-03-2019 11:19	Larrabee St & Webster Ave	144	Larrabee St & Webster Ave	144	casual	1462.92	Friday	10
+22015258	08-03-2019 13:23	09-03-2019 13:42	Streeter Dr & Grand Ave	35	Streeter Dr & Grand Ave	35	casual	1458.23	Friday	13
+22017398	08-03-2019 17:43	09-03-2019 18:39	Michigan Ave & Washington St	43	LaSalle St & Adams St	40	casual	1496.00	Friday	17
+22019934	09-03-2019 12:28	10-03-2019 16:35	Wells St & Polk St	175	Morgan St & Polk St	241	member	1687.12	Saturday	12
+22026421	11-03-2019 10:26	12-03-2019 14:27	Clark St & Lincoln Ave	141	Theater on the Lake	177	casual	1680.83	Monday	10
+22039208	12-03-2019 18:28	26-03-2019 14:35	Wells St & Huron St	53	Rush St & Superior St	161	member	19927.97	Tuesday	18
+22039457	12-03-2019 18:48	22-05-2019 08:15	Central Park Ave & Ogden Ave	438	Central Park Ave & North Ave	508	member	101607.13	Tuesday	18
+22040673	13-03-2019 00:15	14-03-2019 18:09	Wells St & Huron St	53	LaSalle Dr & Huron St (*)	627	casual	2513.93	Wednesday	0
+22046173	13-03-2019 17:53	18-03-2019 06:06	Lake Shore Dr & Monroe St	76	Clark St & Wellington Ave	156	member	6493.18	Wednesday	17
+22048059	13-03-2019 22:07	15-03-2019 00:20	Dearborn St & Erie St	110	Clark St & Chicago Ave	337	casual	1573.37	Wednesday	22
+22049958	14-03-2019 08:37	15-03-2019 18:45	California Ave & Fletcher St	498	California Ave & Fletcher St	498	member	2048.15	Thursday	8
+22054455	14-03-2019 17:44	17-03-2019 14:54	Sheffield Ave & Fullerton Ave	67	Cannon Dr & Fullerton Ave	34	casual	4150.23	Thursday	17
+22054934	14-03-2019 18:14	16-03-2019 13:54	Sheffield Ave & Fullerton Ave	67	Theater on the Lake	177	casual	2620.07	Thursday	18
+22058663	15-03-2019 12:30	26-03-2019 14:55	Franklin St & Monroe St	287	Franklin St & Monroe St	287	member	15984.77	Friday	12
+22062231	15-03-2019 19:38	19-03-2019 11:24	Central St & Girard Ave	602	Lincolnwood Dr & Central St	663	member	5266.23	Friday	19
+22062312	15-03-2019 19:56	18-03-2019 08:24	Kingsbury St & Kinzie St	133	Clinton St & Madison St	77	member	3627.82	Friday	19
+22062885	16-03-2019 03:38	12-04-2019 10:54	Dearborn St & Erie St	110	Wentworth Ave & Cermak Rd (Temp)	120	casual	39315.77	Saturday	3
+22063783	16-03-2019 10:23	17-03-2019 15:03	Canal St & Adams St	192	Michigan Ave & Jackson Blvd	284	casual	1720.00	Saturday	10
+22063797	16-03-2019 10:26	17-03-2019 14:37	Canal St & Adams St	192	Aberdeen St & Jackson Blvd	21	casual	1691.97	Saturday	10
+22065155	16-03-2019 13:43	17-03-2019 17:24	Franklin St & Chicago Ave	31	Wells St & Concord Ln	289	casual	1661.32	Saturday	13
+22066740	16-03-2019 17:19	27-03-2019 11:22	Wells St & Walton St	46	Wells St & Concord Ln	289	casual	15483.10	Saturday	17
+22067029	16-03-2019 18:14	19-03-2019 12:21	Sheffield Ave & Webster Ave	327	Racine Ave & Belmont Ave	226	casual	3966.62	Saturday	18
+22067146	16-03-2019 18:39	18-03-2019 12:58	Larrabee St & Armitage Ave	288	Racine Ave & Fullerton Ave	87	casual	2539.52	Saturday	18
+22068471	17-03-2019 10:15	21-03-2019 07:23	Lake Park Ave & 47th St	267	Millennium Park	90	member	5587.52	Sunday	10
+22071712	17-03-2019 16:37	18-03-2019 17:47	Winchester (Ravenswood) Ave & Balmoral Ave	462	Clark St & Winnemac Ave	325	member	1509.10	Sunday	16
+22074316	18-03-2019 07:37	19-03-2019 08:31	Financial Pl & Ida B Wells Dr (Temp)	89	Paulina St & Flournoy St	383	member	1494.15	Monday	7
+22085077	19-03-2019 12:29	21-03-2019 21:53	Clark St & Chicago Ave	337	State St & Randolph St	44	casual	3443.70	Tuesday	12
+22087566	19-03-2019 16:54	21-03-2019 12:13	May St & 69th St	567	Perry Ave & 69th St	392	member	2599.15	Tuesday	16
+22104960	22-03-2019 01:54	29-03-2019 13:50	Sedgwick St & North Ave	118	Winchester Ave & Elston Ave	505	casual	10796.17	Friday	1
+22107872	22-03-2019 11:14	23-03-2019 12:13	Lake Shore Dr & Monroe St	76	Theater on the Lake	177	casual	1498.93	Friday	11
+22109763	22-03-2019 15:49	24-03-2019 12:25	State St & Harrison St	5	Morgan St & Lake St	71	casual	2676.43	Friday	15
+22117660	23-03-2019 15:24	26-03-2019 19:25	Larrabee St & Armitage Ave	288	Honore St & Division St	17	casual	4560.45	Saturday	15
+22118899	23-03-2019 17:00	03-04-2019 14:20	63rd St Beach	101	Cottage Grove Ave & 83rd St	585	casual	15679.67	Saturday	17
+22119624	23-03-2019 18:10	24-03-2019 18:37	Ashland Ave & Division St	210	Western Ave & Division St	305	member	1467.10	Saturday	18
+22119788	23-03-2019 18:32	25-03-2019 07:14	Walsh Park	628	Kingsbury St & Kinzie St	133	casual	2202.50	Saturday	18
+22120262	23-03-2019 20:01	25-03-2019 07:52	Damen Ave & Madison St	215	LaSalle St & Washington St	98	casual	2150.55	Saturday	20
+22120822	24-03-2019 01:22	25-03-2019 08:29	Western Ave & Walton St	374	Clinton St & Madison St	77	casual	1866.90	Sunday	1
+22120872	24-03-2019 02:44	25-03-2019 07:06	Wells St & Evergreen Ave	291	Wells St & Evergreen Ave	291	casual	1702.10	Sunday	2
+22120874	24-03-2019 02:44	25-03-2019 07:58	Wells St & Evergreen Ave	291	Wells St & Evergreen Ave	291	casual	1753.50	Sunday	2
+22123613	24-03-2019 14:57	25-03-2019 18:50	Shedd Aquarium	3	Southport Ave & Wellington Ave	153	casual	1673.53	Sunday	14
+22130855	25-03-2019 18:05	27-03-2019 08:22	Clinton St & Jackson Blvd (*)	638	Morgan St & 18th St	14	member	2296.58	Monday	18
+22138243	26-03-2019 17:14	03-04-2019 10:25	Orleans St & Merchandise Mart Plaza	100	Larrabee St & Armitage Ave	288	member	11110.83	Tuesday	17
+22141167	27-03-2019 06:37	28-03-2019 09:25	Sheridan Rd & Irving Park Rd	240	Sheridan Rd & Irving Park Rd	240	member	1607.55	Wednesday	6
+22143903	27-03-2019 11:22	29-03-2019 08:35	Western Ave & Roscoe St	493	Southport Ave & Roscoe St	229	casual	2713.10	Wednesday	11
+22148017	27-03-2019 17:23	29-03-2019 12:15	Lake Shore Dr & Monroe St	76	Lake Shore Dr & Wellington Ave	157	casual	2571.68	Wednesday	17
+22149669	27-03-2019 18:35	31-03-2019 17:05	Dodge Ave & Mulford St	662	Dodge Ave & Mulford St	662	member	5670.05	Wednesday	18
+22154751	28-03-2019 11:25	29-03-2019 12:45	Clark St & Elmdale Ave	457	Broadway & Granville Ave	454	casual	1519.67	Thursday	11
+22156827	28-03-2019 15:00	29-03-2019 19:14	Michigan Ave & Washington St	43	Smith Park (*)	643	casual	1694.15	Thursday	15
+22157442	28-03-2019 15:56	04-04-2019 17:23	May St & Taylor St	22	Wood St & Taylor St	317	member	10167.35	Thursday	15
+22160953	28-03-2019 19:13	01-04-2019 15:08	Western Ave & Division St	305	Kedzie Ave & Harrison St	433	casual	5514.80	Thursday	19
+22166003	29-03-2019 13:21	30-03-2019 17:57	State St & Kinzie St	47	Clark St & Lincoln Ave	141	casual	1715.98	Friday	13
+22166419	29-03-2019 14:16	31-03-2019 12:53	Halsted St & Clybourn Ave (*)	331	Ogden Ave & Chicago Ave	54	casual	2796.75	Friday	14
+22166990	29-03-2019 15:15	08-05-2019 01:38	State St & Van Buren St	33	Michigan Ave & Washington St	43	casual	56782.72	Friday	15
+22168538	29-03-2019 17:02	31-03-2019 13:04	Artesian Ave & Hubbard St	376	Artesian Ave & Hubbard St	376	member	2641.83	Friday	17
+22169379	29-03-2019 17:47	31-03-2019 12:34	Marshfield Ave & Cortland St	58	Clark St & Wrightwood Ave	340	casual	2567.10	Friday	17
+22169958	29-03-2019 18:36	31-03-2019 13:28	Western Ave & 28th St	446	Halsted St & 35th St (*)	279	member	2571.25	Friday	18
+22171794	30-03-2019 11:16	31-03-2019 13:22	Stockton Dr & Wrightwood Ave	324	Burling St (Halsted) & Diversey Pkwy (Temp)	332	casual	1565.97	Saturday	11
+22172782	30-03-2019 13:49	03-04-2019 06:41	Clinton St & Madison St	77	Clark St & Schiller St	301	casual	5331.98	Saturday	13
+22172816	30-03-2019 13:53	07-04-2019 18:07	Clinton St & Madison St	77	Kenton Ave & Madison St	537	casual	11773.40	Saturday	13
+22173098	30-03-2019 14:33	01-04-2019 17:34	Central Park Ave & 24th St	440	Kedzie Ave & Roosevelt Rd	435	casual	3061.22	Saturday	14
+22173665	30-03-2019 16:07	31-03-2019 17:50	Clinton St & Jackson Blvd (*)	638	Peoria St & Jackson Blvd	134	member	1542.13	Saturday	16
+22173814	30-03-2019 16:34	01-04-2019 13:43	Millennium Park	90	Streeter Dr & Grand Ave	35	casual	2709.27	Saturday	16
+22178135	31-03-2019 19:25	22-04-2019 15:50	Greenview Ave & Jarvis Ave	520	Greenview Ave & Jarvis Ave	520	member	31464.43	Sunday	19
+8E7BA80EB79CB5C6	14-01-2020 15:43	24-01-2020 07:53	Lincoln Ave & Fullerton Ave	127	Clark St & Drummond Pl	220	casual	13929.98	Tuesday	15
+785A67FB11A02848	17-01-2020 08:19	18-01-2020 10:25	Clinton St & Jackson Blvd	638	Clark St & Lake St	38	member	1566.08	Friday	8
+869B26EEDEFDF774	19-01-2020 18:53	23-01-2020 09:42	McClurg Ct & Illinois St	26	Franklin St & Jackson Blvd	36	casual	5209.35	Sunday	18
+651C959936BA3227	15-01-2020 17:15	24-01-2020 17:12	Rush St & Superior St	161	LaSalle St & Illinois St	181	casual	12956.75	Wednesday	17
+63068F0D638FEED2	02-01-2020 12:10	03-01-2020 13:47	Dearborn St & Erie St	110	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	1537.27	Thursday	12
+4FC4437B29C9BF1B	05-01-2020 17:05	07-01-2020 13:14	Lakeview Ave & Fullerton Pkwy	313	Lakeview Ave & Fullerton Pkwy	313	casual	2648.57	Sunday	17
+78A27956CF4E52FC	17-01-2020 16:11	20-01-2020 06:02	Michigan Ave & Madison St	197	Clark St & Ida B Wells Dr	50	casual	3710.13	Friday	16
+D9E4EAA8E2DE0655	10-01-2020 17:27	12-01-2020 20:46	Clinton St & Madison St	77	Clinton St & Tilden St	68	member	3079.53	Friday	17
+7F14D522CF197D42	01-01-2020 14:11	06-01-2020 11:00	LaSalle St & Jackson Blvd	283	State St & Randolph St	44	casual	7009.00	Wednesday	14
+4A21FF5EFCB27FF6	24-01-2020 12:32	25-01-2020 13:01	Dearborn St & Adams St	37	Larrabee St & Kingsbury St	48	casual	1468.28	Friday	12
+125968C9BF03CE13	07-01-2020 04:53	09-01-2020 18:28	Larrabee St & Oak St	364	Halsted St & Willow St	224	casual	3695.32	Tuesday	4
+D9F9B8E39C0C6F13	10-01-2020 11:24	22-02-2020 10:19	Wabash Ave & Adams St	39	Sheridan Rd & Greenleaf Ave	354	casual	61854.88	Friday	11
+087D17C92210ED45	01-01-2020 14:11	06-01-2020 11:00	LaSalle St & Jackson Blvd	283	State St & Randolph St	44	casual	7008.92	Wednesday	14
+C67AB203479067A3	19-01-2020 12:52	22-01-2020 08:08	Streeter Dr & Grand Ave	35	Streeter Dr & Grand Ave	35	casual	4035.87	Sunday	12
+7240BD03B9513892	10-01-2020 15:01	11-01-2020 20:11	Leavitt St & Chicago Ave	659	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	1750.42	Friday	15
+178FEA1DC6B0DFE7	15-01-2020 10:03	25-01-2020 08:08	Dearborn St & Erie St	110	State St & Pearson St	106	casual	14284.20	Wednesday	10
+306D2A11DE2F1C15	31-01-2020 13:15	03-02-2020 00:18	Broadway & Waveland Ave	304	Wabash Ave & Grand Ave	199	casual	3543.48	Friday	13
+B6DE81A51970FF21	18-01-2020 10:52	20-01-2020 10:47	Lake Shore Dr & Monroe St	76	Lake Shore Dr & Monroe St	76	casual	2874.45	Saturday	10
+4B9B460E6994D47B	22-01-2020 05:09	23-01-2020 17:15	Southport Ave & Clark St	292	Southport Ave & Clark St	292	casual	2165.92	Wednesday	5
+C627CC58AA7A212C	24-01-2020 16:03	26-01-2020 09:55	Lake Shore Dr & Monroe St	76	Streeter Dr & Grand Ave	35	casual	2512.03	Friday	16
+1560F5DB2E82F77E	24-01-2020 15:52	25-01-2020 17:10	Rush St & Superior St	161	Broadway & Cornelia Ave	303	member	1518.30	Friday	15
+28FDAE8420A4EB2F	09-01-2020 19:37	12-01-2020 15:02	Greenwood Ave & 79th St	576	California Ave & 21st St	348	casual	4044.37	Thursday	19
+B4BA5DF6ED56398C	05-01-2020 17:29	07-01-2020 15:50	St. Clair St & Erie St	211	Prairie Ave & Garfield Blvd	204	casual	2780.33	Sunday	17
+9280527D949FEB8F	04-01-2020 02:46	15-01-2020 13:17	Dearborn St & Erie St	110	Halsted St & Archer Ave	206	casual	16470.92	Saturday	2
+2714D5E4AAE83DF9	10-01-2020 16:21	12-01-2020 17:26	Paulina St & Montrose Ave	297	Clark St & Winnemac Ave	325	member	2945.13	Friday	16
+368417D48D3D01F0	05-01-2020 16:27	07-01-2020 16:08	Calumet Ave & 33rd St	149	Wentworth Ave & 35th St	405	casual	2861.25	Sunday	16
+8D3BE3C02A7EB48B	07-01-2020 16:09	09-01-2020 10:20	Jefferson St & Monroe St	73	Damen Ave & Thomas St (Augusta Blvd)	183	casual	2530.87	Tuesday	16
+E811F8A7EFA0C4B4	23-01-2020 12:12	02-03-2020 18:01	Sedgwick St & North Ave	118	Kedzie Ave & Lake St	377	casual	56508.43	Thursday	12
+67B1E19D266F1552	02-01-2020 11:22	04-01-2020 21:29	Sedgwick St & North Ave	118	Lincoln Ave & Fullerton Ave	127	casual	3487.15	Thursday	11
+8B0377EA0A9E8CD5	10-01-2020 18:24	13-01-2020 00:36	Sheffield Ave & Wellington Ave	115	Sheridan Rd & Irving Park Rd	240	casual	3252.45	Friday	18
+96C9FF637C101449	17-01-2020 17:03	19-01-2020 10:28	LaSalle St & Adams St	40	Canal St & Madison St	174	member	2484.48	Friday	17
+19E7E928B5152A71	26-01-2020 15:30	01-02-2020 16:22	Wabash Ave & Grand Ave	199	Clinton St & Tilden St	68	casual	8691.48	Sunday	15
+308B58F3E586706B	01-01-2020 17:14	03-01-2020 08:11	Dearborn St & Erie St	110	Dearborn St & Erie St	110	casual	2337.40	Wednesday	17
+ECD55B34A60E4EC3	10-01-2020 12:10	12-01-2020 15:06	California Ave & 26th St	445	Humboldt Blvd & Armitage Ave	507	member	3056.17	Friday	12
+98C8CE4BDE2DF78A	07-01-2020 08:50	09-01-2020 16:29	State St & 33rd St	148	Indiana Ave & 31st St	272	member	3339.32	Tuesday	8
+279F7DB076FD4444	09-01-2020 21:00	27-04-2020 12:30	Stony Island Ave & 75th St	270	South Shore Dr & 67th St	355	casual	156450.40	Thursday	21
+3AF89197E4194178	06-01-2020 11:41	01-02-2020 16:52	Wabash Ave & Cermak Rd	42	Franklin St & Jackson Blvd	36	casual	37750.92	Monday	11
+300846D91CA80628	22-01-2020 13:44	24-01-2020 09:19	Western Ave & Winnebago Ave	116	Milwaukee Ave & Wabansia Ave	158	member	2615.35	Wednesday	13
+6CABC1AA4C2D63B6	03-01-2020 17:36	04-01-2020 18:05	Eastlake Ter & Rogers Ave	523	Chicago Ave & Dempster St	625	member	1469.12	Friday	17
+7815CA4C09709CAF	05-01-2020 13:49	06-01-2020 17:38	Southport Ave & Waveland Ave	227	Ashland Ave & Grace St	347	casual	1668.22	Sunday	13
+EA5B1FA3D70F22C3	23-01-2020 09:03	11-02-2020 10:18	Broadway & Ridge Ave	461	St. Louis Ave & Balmoral Ave	469	casual	27435.70	Thursday	9
+9796F0484433A4E6	23-01-2020 13:35	30-01-2020 08:33	Wabash Ave & Grand Ave	199	Wabash Ave & Roosevelt Rd	59	casual	9777.82	Thursday	13
+6A379170DC081DCE	17-01-2020 18:46	20-01-2020 07:25	Rush St & Hubbard St	125	Clinton St & Washington Blvd	91	member	3638.47	Friday	18
+BDAB152131CF2389	09-01-2020 22:36	12-01-2020 15:40	Ellis Ave & 60th St	426	Ellis Ave & 55th St	420	casual	3903.48	Thursday	22
+7396B5EA71F99CEF	25-01-2020 20:42	09-02-2020 16:29	Southport Ave & Wellington Ave	153	Kedzie Ave & 21st St	439	casual	21346.78	Saturday	20
+910382B6D06C7866	06-01-2020 17:41	10-01-2020 21:53	Lakeview Ave & Fullerton Pkwy	313	Broadway & Waveland Ave	304	casual	6012.78	Monday	17
+C51BF14B2E2D212F	22-01-2020 17:13	24-01-2020 07:22	Bissell St & Armitage Ave	113	Larrabee St & North Ave	27	member	2289.03	Wednesday	17
+264F1D8F3D622A8D	29-01-2020 08:33	06-02-2020 11:13	McClurg Ct & Illinois St	26	Fairbanks Ct & Grand Ave	24	casual	11679.60	Wednesday	8
+A6ED2BC32D1F5E4E	27-01-2020 20:53	29-01-2020 10:04	Delano Ct & Roosevelt Rd	626	Michigan Ave & Lake St	52	casual	2230.75	Monday	20
+20472178C6C675A2	04-01-2020 17:55	06-01-2020 11:42	Dayton St & North Ave	60	Southport Ave & Roscoe St	229	casual	2506.75	Saturday	17
+988B7D060DEB7FBB	14-01-2020 10:05	15-01-2020 12:39	Ellis Ave & 53rd St	418	Ellis Ave & 53rd St	418	casual	1594.85	Tuesday	10
+28C60AC7D10C8440	18-01-2020 10:50	20-01-2020 10:45	Lake Shore Dr & Monroe St	76	Lake Shore Dr & Monroe St	76	casual	2874.23	Saturday	10
+B3C99DF54E0B1597	28-01-2020 23:13	07-02-2020 12:43	Franklin St & Lake St	164	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	13769.33	Tuesday	23
+031816B5311AF767	22-01-2020 12:11	24-01-2020 08:27	State St & 33rd St	148	Emerald Ave & 31st St	339	member	2656.12	Wednesday	12
+A7C8BAB7AF3335AF	31-01-2020 16:19	02-02-2020 12:04	Kingsbury St & Erie St	74	Larrabee St & Webster Ave	144	casual	2624.77	Friday	16
+6EB072EF1890AFDA	16-01-2020 09:08	20-01-2020 01:18	Sheffield Ave & Waveland Ave	114	Wabash Ave & Grand Ave	199	casual	5289.78	Thursday	9
+439BCB941291A940	09-01-2020 17:03	10-01-2020 17:04	California Ave & Cortez St	622	California Ave & Cortez St	622	member	1440.80	Thursday	17
+C4F4D19D20F53509	20-01-2020 15:52	15-02-2020 14:32	LaSalle St & Jackson Blvd	283	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	37359.72	Monday	15
+00F1F172648091A8	05-01-2020 15:50	02-02-2020 15:14	Humboldt Blvd & Armitage Ave	507	Stave St & Armitage Ave	185	casual	40284.58	Sunday	15
+5367BA7D5023FBA0	02-01-2020 13:04	07-01-2020 13:31	Wabash Ave & Grand Ave	199	Wabash Ave & Grand Ave	199	casual	7227.75	Thursday	13
+88FC35C1092DB210	25-01-2020 14:25	27-01-2020 15:43	Dearborn St & Erie St	110	California Ave & Division St	216	casual	2957.92	Saturday	14
+63F1D0FB38E8B158	26-01-2020 10:24	28-03-2020 22:15	Ellis Ave & 53rd St	418	Cottage Grove Ave & 47th St	336	casual	89991.77	Sunday	10
+22312D0454D869FB	09-01-2020 11:30	10-01-2020 15:01	Michigan Ave & Washington St	43	State St & Randolph St	44	casual	1650.97	Thursday	11
+37E250880094B435	15-01-2020 12:02	07-03-2020 09:05	McClurg Ct & Illinois St	26	Cottage Grove Ave & 47th St	336	casual	74703.35	Wednesday	12
+ED66B93A4E02726D	08-01-2020 12:38	10-01-2020 16:13	Indiana Ave & Roosevelt Rd	255	Streeter Dr & Grand Ave	35	casual	3095.50	Wednesday	12
+9EBE9EB78D09B64C	24-01-2020 08:51	26-01-2020 10:46	Wabash Ave & Roosevelt Rd	59	Franklin St & Monroe St	287	member	2995.37	Friday	8
+8784E9C02B54AE0C	02-01-2020 09:21	07-01-2020 05:33	Honore St & Division St	17	Larrabee St & North Ave	27	casual	6972.53	Thursday	9
+7291E032F4B4E069	31-01-2020 17:39	02-02-2020 22:30	Sedgwick St & North Ave	118	Sedgwick St & Schiller St	236	casual	3170.90	Friday	17
+29279BFA3A0EBD74	11-01-2020 10:35	12-01-2020 15:42	Wabash Ave & Adams St	39	State St & Van Buren St	33	casual	1747.08	Saturday	10
+A518DA5D8A80803E	10-01-2020 18:20	12-01-2020 10:29	Kingsbury St & Kinzie St	133	Franklin St & Chicago Ave	31	member	2409.62	Friday	18
+BC8B6401B6968809	20-01-2020 12:53	28-01-2020 00:37	Southport Ave & Roscoe St	229	Wabash Ave & Grand Ave	199	casual	10783.48	Monday	12
+C8E1F273E0FE4E3B	04-01-2020 10:38	29-01-2020 21:50	Broadway & Barry Ave	300	Ravenswood Ave & Lawrence Ave	344	casual	36671.95	Saturday	10
+91D78EC1DAAA0A96	31-01-2020 14:24	01-02-2020 22:16	Broadway & Barry Ave	300	Dearborn St & Erie St	110	casual	1911.27	Friday	14
+33D1C4D0EFB44F80	24-01-2020 18:00	28-01-2020 21:16	Wabash Ave & Grand Ave	199	Wabash Ave & Roosevelt Rd	59	casual	5956.45	Friday	18
+F9A66BBAC0740293	24-01-2020 14:01	26-01-2020 21:40	Franklin St & Lake St	164	Milwaukee Ave & Grand Ave	84	member	3338.62	Friday	14
+311FA956876C4971	20-01-2020 07:20	27-01-2020 13:04	Stave St & Armitage Ave	185	State St & Kinzie St	47	member	10424.20	Monday	7
+1EA5D03A91882627	22-01-2020 19:23	03-02-2020 21:39	Rush St & Cedar St	172	Greenwood Ave & 79th St	576	casual	17415.78	Wednesday	19
+711D63ACA859298B	20-01-2020 15:52	15-02-2020 14:33	LaSalle St & Jackson Blvd	283	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	37360.70	Monday	15
+C5C656C86C2098A1	02-01-2020 12:05	16-01-2020 12:26	Dearborn St & Erie St	110	Wells St & Huron St	53	casual	20181.00	Thursday	12
+375170A236B591B2	02-01-2020 12:05	05-01-2020 16:03	Dearborn St & Erie St	110	Michigan Ave & Ida B Wells Dr	45	casual	4558.27	Thursday	12
+275A68DDA332F4B9	10-01-2020 14:20	11-01-2020 14:29	Dusable Harbor	6	Dusable Harbor	6	casual	1449.37	Friday	14
+1F68583C4EAB40F2	21-02-2020 18:11	23-02-2020 09:18	Wabash Ave & Grand Ave	199	State St & Kinzie St	47	casual	2346.68	Friday	18
+92E1E43C5C238B38	02-02-2020 16:21	28-02-2020 18:16	Broadway & Thorndale Ave	458	Clark St & Elmdale Ave	457	member	37555.52	Sunday	16
+89C0A0D0257BDF58	13-02-2020 13:59	22-02-2020 23:30	Clinton St & Madison St	77	Dearborn St & Adams St	37	casual	13531.20	Thursday	13
+7F0427BC4D5DA381	12-02-2020 19:06	14-02-2020 07:33	Clinton St & Lake St	66	Aberdeen St & Randolph St	621	member	2186.78	Wednesday	19
+C1C34D7485A7B699	28-02-2020 17:57	02-03-2020 10:22	Sheffield Ave & Kingsbury St	20	Halsted St & Dickens Ave	225	casual	3864.65	Friday	17
+DF436D08F7B84FA6	02-02-2020 21:32	08-02-2020 21:37	Kimball Ave & Belmont Ave	497	Conservatory Dr & Lake St	518	member	8645.03	Sunday	21
+7978EBCFBD20A8E4	16-02-2020 21:13	21-02-2020 13:15	Greenview Ave & Fullerton Ave	188	Sheffield Ave & Fullerton Ave	67	casual	6722.83	Sunday	21
+7B65FC4286F7A288	07-02-2020 17:39	09-02-2020 18:00	Clinton St & Lake St	66	Ashland Ave & Lake St	119	casual	2901.17	Friday	17
+0B3CE7DE0ADD5000	23-02-2020 16:39	29-02-2020 08:30	Paulina Ave & North Ave	16	Western Ave & Winnebago Ave	116	casual	8151.37	Sunday	16
+C9C2708F5BC76739	06-02-2020 19:50	11-02-2020 18:54	Sheffield Ave & Wellington Ave	115	Ashland Ave & Wellington Ave	250	casual	7143.23	Thursday	19
+ABA59A8FED82A85C	28-02-2020 08:47	19-05-2020 20:10	Oakley Ave & Touhy Ave	526	Clark St & Schreiber Ave	453	casual	117323.42	Friday	8
+46BD296367D2D4F6	23-02-2020 10:22	04-03-2020 21:39	Streeter Dr & Grand Ave	35	Dearborn St & Van Buren St	624	casual	15077.28	Sunday	10
+874FB3209A8040C1	28-02-2020 15:03	01-03-2020 10:15	Larrabee St & North Ave	27	Michigan Ave & Lake St	52	casual	2592.65	Friday	15
+9B6D7855C0EDBF14	23-02-2020 11:20	28-02-2020 13:20	Wabash Ave & Grand Ave	199	McCormick Place	62	casual	7320.23	Sunday	11
+D4E7BAA89FD00E88	23-02-2020 00:57	26-02-2020 09:51	Broadway & Cornelia Ave	303	St. Louis Ave & Balmoral Ave	469	casual	4853.42	Sunday	0
+870959439DC79859	22-02-2020 10:44	23-02-2020 10:57	Dearborn Pkwy & Delaware Pl	140	Franklin St & Illinois St	672	member	1453.52	Saturday	10
+646E9350D169D138	11-02-2020 10:45	30-03-2020 17:10	State St & Randolph St	44	Clinton St & Madison St	77	casual	69504.85	Tuesday	10
+34C385D2F7AAAB19	23-02-2020 16:56	09-03-2020 10:47	Michigan Ave & 8th St	623	State St & Randolph St	44	casual	21231.07	Sunday	16
+428605B7F872F72E	22-02-2020 17:24	16-03-2020 12:55	Michigan Ave & Lake St	52	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	32850.53	Saturday	17
+AEC576EC679F6F48	05-02-2020 04:56	06-02-2020 05:42	Glenwood Ave & Touhy Ave	525	Paulina St & Howard St	515	casual	1486.13	Wednesday	4
+A531B5A5E94683DF	21-02-2020 13:56	08-03-2020 21:11	University Library (NU)	605	Chicago Ave & Sheridan Rd	603	casual	23474.55	Friday	13
+BEEDAFF0678BD4E5	28-02-2020 17:05	29-03-2020 13:01	Clark St & Randolph St	51	Humboldt Blvd & Armitage Ave	507	member	42956.23	Friday	17
+7C5E44BF715C0E33	04-02-2020 10:08	09-02-2020 15:27	Oakley Ave & Touhy Ave	526	Paulina St & Howard St	515	casual	7519.53	Tuesday	10
+789ACC7CD122CFC9	28-02-2020 10:00	29-02-2020 11:25	Warren Park East	448	Clark St & Lunt Ave	432	member	1525.62	Friday	10
+463CE25AC96955C2	23-02-2020 12:36	03-03-2020 05:23	Western Ave & Granville Ave	452	Warren Park East	448	casual	12526.93	Sunday	12
+F941EE3BB1C3A9DF	09-02-2020 16:46	22-02-2020 16:08	Benson Ave & Church St	596	Paulina St & Howard St	515	casual	18681.68	Sunday	16
+00FE9A29ECDF25B0	11-02-2020 17:08	20-02-2020 12:04	Wabash Ave & Roosevelt Rd	59	Franklin St & Jackson Blvd	36	casual	12656.08	Tuesday	17
+04F22741B80C6C15	27-02-2020 16:51	28-02-2020 18:51	Michigan Ave & Pearson St	25	Clark St & North Ave	126	member	1560.80	Thursday	16
+512EB523CE843168	22-02-2020 14:00	06-04-2020 19:38	Clinton St & Washington Blvd	91	Sheridan Rd & Loyola Ave	451	casual	63698.60	Saturday	14
+B18E747623580D3F	10-02-2020 18:04	17-02-2020 06:58	Laflin St & Cullerton St	208	Laflin St & Cullerton St	208	casual	9413.95	Monday	18
+50F55F9A9990970D	28-02-2020 11:28	08-03-2020 12:47	Wabash Ave & Grand Ave	199	Clybourn Ave & Division St	138	casual	13038.23	Friday	11
+E54021475B2E7CE4	23-02-2020 16:11	27-02-2020 18:59	Columbus Dr & Randolph St	195	Wilton Ave & Diversey Pkwy	13	casual	5928.65	Sunday	16
+396D7AACC46C7F8A	19-02-2020 11:50	22-02-2020 12:33	Museum of Science and Industry	424	Museum of Science and Industry	424	casual	4362.52	Wednesday	11
+28D9176656B613EB	22-02-2020 16:46	23-02-2020 17:52	Ellis Ave & 60th St	426	University Ave & 57th St	423	member	1506.53	Saturday	16
+C16FAB5F7F18BCE1	14-02-2020 16:24	15-02-2020 18:24	McClurg Ct & Erie St	142	Canal St & Adams St	192	member	1560.02	Friday	16
+FA65F09874564179	15-02-2020 01:08	16-02-2020 12:02	Racine Ave & Belmont Ave	226	Clark St & Grace St	165	member	2093.97	Saturday	1
+AA8A7CBAE0B9C2FA	23-02-2020 17:48	26-02-2020 00:32	Broadway & Waveland Ave	304	Broadway & Cornelia Ave	303	casual	3284.35	Sunday	17
+B5042A5904498BAB	23-02-2020 02:04	25-02-2020 13:31	Rush St & Superior St	161	Rush St & Superior St	161	casual	3567.40	Sunday	2
+FED6615EFF874ED9	18-02-2020 17:18	26-03-2020 13:50	State St & Pearson St	106	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	53072.32	Tuesday	17
+CAC1AA51B2905D6E	02-02-2020 12:23	25-02-2020 02:45	Stony Island Ave & 67th St	102	Clinton St & Madison St	77	casual	32542.27	Sunday	12
+611A0040C82252A7	13-02-2020 17:27	14-02-2020 22:07	Wabash Ave & Wacker Pl	194	Dearborn St & Erie St	110	casual	1720.68	Thursday	17
+BD63244355989874	19-02-2020 07:25	21-02-2020 17:31	Ashland Ave & Blackhawk St	333	Rush St & Hubbard St	125	member	3486.20	Wednesday	7
+5ECF72F6968587D8	01-02-2020 01:50	05-02-2020 17:05	Desplaines St & Kinzie St	56	Racine Ave & Washington Blvd (*)	654	casual	6674.87	Saturday	1
+A7D20C971CF1BE3D	22-02-2020 17:24	03-03-2020 22:37	Michigan Ave & Lake St	52	Wabash Ave & Roosevelt Rd	59	casual	14712.65	Saturday	17
+EF08180033456F1F	10-02-2020 08:09	12-02-2020 09:16	Cornell Ave & Hyde Park Blvd	417	Ellis Ave & 58th St	328	member	2946.50	Monday	8
+222AA9D00A37D770	16-02-2020 13:30	23-02-2020 03:59	State St & Pearson St	106	Michigan Ave & Washington St	43	casual	9508.32	Sunday	13
+3B4ABB9681A89FEC	06-02-2020 15:48	10-02-2020 16:01	Artesian Ave & Hubbard St	376	Western Ave & Walton St	374	member	5773.22	Thursday	15
+83C55FA49274CBB1	06-02-2020 08:47	01-03-2020 14:28	Clark St & Newport St	632	Kedzie Ave & Milwaukee Ave	260	casual	34901.35	Thursday	8
+A6715AC94A4072B9	10-02-2020 18:06	12-02-2020 02:09	Leavitt St & Archer Ave	9	Leavitt St & Archer Ave	9	casual	1923.85	Monday	18
+24B2114255D9A3A8	23-02-2020 00:57	25-02-2020 06:58	Broadway & Cornelia Ave	303	State St & Randolph St	44	casual	3240.92	Sunday	0
+9CB9439F1D9B7853	23-02-2020 17:09	24-02-2020 19:41	Sheridan Rd & Buena Ave	306	Lakefront Trail & Wilson Ave	639	casual	1591.85	Sunday	17
+1A4D97745AB5F20B	23-02-2020 00:55	24-02-2020 07:58	Lincoln Ave & Addison St	330	Sheffield Ave & Kingsbury St	20	casual	1863.50	Sunday	0
+FCA31714B7432E3C	16-02-2020 13:17	18-02-2020 12:59	Stetson Ave & South Water St	264	Sedgwick St & North Ave	118	casual	2862.20	Sunday	13
+733D30FA5D50916E	21-02-2020 17:56	23-02-2020 12:13	Southport Ave & Irving Park Rd	318	Clark St & Newport St	632	member	2536.65	Friday	17
+B02926396CBED16D	09-02-2020 10:23	11-04-2020 18:46	Carpenter St & 63rd St	648	Wilton Ave & Diversey Pkwy	13	casual	89782.65	Sunday	10
+381CF68301CB8D15	22-02-2020 16:01	20-03-2020 13:37	Ashland Ave & Lake St	119	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	38736.45	Saturday	16
+D8BDCCAAE0CD76BE	07-02-2020 16:12	08-02-2020 16:28	Canal St & Jackson Blvd	75	Franklin St & Chicago Ave	31	member	1455.77	Friday	16
+AB235308A06A97C9	22-02-2020 14:00	24-02-2020 09:31	Clinton St & Washington Blvd	91	State St & Van Buren St	33	casual	2611.55	Saturday	14
+D388822C9D48512A	26-02-2020 18:22	29-02-2020 15:36	LaSalle St & Illinois St	181	Wentworth Ave & 33rd St	403	casual	4154.57	Wednesday	18
+5CDACB1928319EFE	23-02-2020 16:36	27-02-2020 19:04	Larrabee St & Division St	359	Halsted St & Clybourn Ave	331	casual	5907.82	Sunday	16
+D9382D20D5AA45BD	15-02-2020 08:52	19-02-2020 09:17	Canal St & Madison St	174	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	member	5785.33	Saturday	8
+5D8AA61054EF7EFB	15-02-2020 11:22	16-02-2020 11:30	Michigan Ave & Washington St	43	Michigan Ave & Washington St	43	casual	1447.37	Saturday	11
+EC58E676EC8EDF7E	29-02-2020 23:52	04-03-2020 07:27	LaSalle St & Jackson Blvd	283	Franklin St & Illinois St	672	casual	4774.15	Saturday	23
+DA81D1A9C47BE9C0	25-02-2020 08:40	26-02-2020 21:58	Kenton Ave & Madison St	537	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	2238.13	Tuesday	8
+DF955AFE21AA2526	08-02-2020 19:04	03-04-2020 19:21	Wabash Ave & Grand Ave	199	Wabash Ave & Wacker Pl	194	member	79217.52	Saturday	19
+929285FB7FFAF928	10-02-2020 12:36	12-02-2020 06:09	Broadway & Waveland Ave	304	Financial Pl & Ida B Wells Dr	89	casual	2493.33	Monday	12
+F5D7F0960E7A131B	14-02-2020 12:19	20-02-2020 11:31	LaSalle St & Washington St	98	Kedzie Ave & Chicago Ave	373	casual	8591.98	Friday	12
+377B59F0A27BB4CB	02-02-2020 17:18	12-05-2020 16:15	Drake Ave & Fullerton Ave	503	Noble St & Milwaukee Ave	29	casual	143936.75	Sunday	17
+AD7F9FA7BA62204B	10-02-2020 15:01	08-03-2020 23:29	Wabash Ave & Grand Ave	199	Halsted St & 69th St	391	casual	39387.58	Monday	15
+B55E90E4D32939AE	23-02-2020 16:44	25-02-2020 11:22	Lake Shore Dr & Diversey Pkwy	329	Michigan Ave & Oak St	85	casual	2558.08	Sunday	16
+7E10B3BAF93D675E	02-02-2020 07:44	21-02-2020 14:00	Wood St & Chicago Ave (*)	637	Paulina St & Howard St	515	member	27735.90	Sunday	7
+5ADE1CC6558A8F65	02-02-2020 15:52	03-02-2020 17:26	Franklin St & Adams St (Temp)	286	Indiana Ave & Roosevelt Rd	255	casual	1534.10	Sunday	15
+92B015EA11716546	22-02-2020 17:24	24-02-2020 17:32	Michigan Ave & Lake St	52	Mies van der Rohe Way & Chicago Ave	173	casual	2887.75	Saturday	17
+E9C706EE9B5CF322	20-02-2020 07:13	21-02-2020 08:08	Wells St & Evergreen Ave	291	Dearborn St & Erie St	110	member	1495.48	Thursday	7
+0A23B6D3F0069FD6	11-02-2020 19:48	29-02-2020 17:15	Milwaukee Ave & Wabansia Ave	158	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	25767.20	Tuesday	19
+8B1B8AAF45812286	16-02-2020 18:07	18-02-2020 14:01	Streeter Dr & Grand Ave	35	Wabash Ave & Grand Ave	199	casual	2634.92	Sunday	18
+D46C2DD24D73F6A1	08-02-2020 14:03	13-02-2020 11:56	Wood St & Hubbard St	285	California Ave & Lake St	378	casual	7072.38	Saturday	14
+767558DE790159DE	01-02-2020 09:58	01-03-2020 10:00	Fairbanks Ct & Grand Ave	24	Cottage Grove Ave & 47th St	336	casual	41762.30	Saturday	9
+18353F2BD7ECBE97	29-02-2020 16:01	01-03-2020 19:28	Millennium Park	90	Fairbanks Ct & Grand Ave	24	casual	1647.05	Saturday	16
+57AF498DEBD3277D	22-02-2020 17:53	23-02-2020 19:36	Wabash Ave & Grand Ave	199	State St & Kinzie St	47	casual	1542.78	Saturday	17
+2F2661DA74E96A4F	01-02-2020 04:24	17-03-2020 18:46	Larrabee St & Oak St	364	Christiana Ave & Lawrence Ave	474	casual	65661.70	Saturday	4
+F6C31A87281B1EA5	26-02-2020 21:48	29-02-2020 09:40	Dearborn St & Erie St	110	Clark St & Ida B Wells Dr	50	casual	3591.55	Wednesday	21
+7730466FFB57E155	28-03-2020 13:41	29-03-2020 17:33	Wells St & Evergreen Ave	291	Sedgwick St & Schiller St	236	casual	1672.35	Saturday	13
+75B9C576E33CB079	11-03-2020 05:36	12-03-2020 09:47	Dayton St & North Ave	60	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	member	1690.87	Wednesday	5
+C1DE903A9C5EE408	22-03-2020 15:26	25-03-2020 14:01	Broadway & Barry Ave	300	Wells St & Elm St	182	casual	4235.20	Sunday	15
+5B4250EC11CED3DE	15-03-2020 18:49	18-03-2020 09:13	Adler Planetarium	341	HQ QR	675	member	3743.57	Sunday	18
+F9E1121F29C318A5	05-03-2020 17:12	07-03-2020 13:50	Southport Ave & Clybourn Ave	307	Stockton Dr & Wrightwood Ave	324	casual	2678.00	Thursday	17
+2AF0F358DA1F1FEF	08-03-2020 16:03	11-03-2020 09:37	Kimbark Ave & 53rd St	322	DuSable Museum	422	casual	3934.38	Sunday	16
+94C9FBE65B87F2D7	01-03-2020 17:11	03-03-2020 12:41	Sheridan Rd & Noyes St (NU)	604	Sheridan Rd & Noyes St (NU)	604	casual	2610.10	Sunday	17
+1EB79D75AB12C611	28-03-2020 10:39	29-03-2020 11:34	Evans Ave & 75th St	570	Cottage Grove Ave & 78th St	575	member	1494.92	Saturday	10
+D5D998F092B247A4	01-03-2020 12:59	04-03-2020 18:45	Theater on the Lake	177	Lincoln Ave & Fullerton Ave	127	casual	4665.72	Sunday	12
+D343FAA90B9FB7DD	10-03-2020 13:23	13-03-2020 12:21	Wabash Ave & Wacker Pl	194	Fairbanks Ct & Grand Ave	24	casual	4257.67	Tuesday	13
+D5E816A110B8564E	20-03-2020 09:13	22-03-2020 08:06	Western Ave & Granville Ave	452	Western Ave & Granville Ave	452	member	2813.32	Friday	9
+2C57E331ACE5D2EA	15-03-2020 14:43	19-03-2020 10:22	Dusable Harbor	6	Streeter Dr & Grand Ave	35	casual	5498.33	Sunday	14
+D4A564A44C61CC58	14-03-2020 10:13	17-03-2020 08:16	Wabash Ave & Grand Ave	199	Wabash Ave & Grand Ave	199	casual	4203.25	Saturday	10
+68B2F25E33332D9A	02-03-2020 22:27	08-03-2020 11:38	Richmond St & Diversey Ave	501	Avers Ave & Belmont Ave	496	casual	7991.60	Monday	22
+3B558D1027804C6E	13-03-2020 20:08	17-03-2020 19:03	Clark St & Wellington Ave	156	Southport Ave & Irving Park Rd	318	casual	5694.98	Friday	20
+3265036F7870E7DB	12-03-2020 20:30	16-03-2020 15:19	Streeter Dr & Grand Ave	35	Ashland Ave & Wrightwood Ave	166	casual	5449.50	Thursday	20
+6770F48C81A2B8C8	20-03-2020 09:48	21-03-2020 14:24	Seeley Ave & Roscoe St	308	Calumet Ave & 18th St	338	casual	1716.85	Friday	9
+C9FF31E7A62B06CC	19-03-2020 09:11	20-03-2020 12:41	Ashland Ave & Grand Ave	277	Ashland Ave & Grand Ave	277	casual	1650.13	Thursday	9
+B0E67986C527A425	05-03-2020 16:03	07-03-2020 13:26	Canal St & Taylor St	414	May St & Taylor St	22	casual	2722.38	Thursday	16
+5D188C76FEFA96D3	12-03-2020 13:32	16-03-2020 15:06	State St & Randolph St	44	Dearborn St & Erie St	110	casual	5853.37	Thursday	13
+A88ED46BB30531C3	23-03-2020 19:34	24-03-2020 23:05	Kedzie Ave & Chicago Ave	373	Kedzie Ave & Chicago Ave	373	casual	1650.23	Monday	19
+F24E2031C263D31F	12-03-2020 16:51	13-03-2020 18:27	Elizabeth (May) St & Fulton St	217	Dearborn Pkwy & Delaware Pl	140	casual	1536.10	Thursday	16
+FFA92BAD93FCCD85	01-03-2020 17:59	06-03-2020 07:55	Michigan Ave & Jackson Blvd	284	Wabash Ave & Grand Ave	199	casual	6596.17	Sunday	17
+FB4F7E5644A0AB02	08-03-2020 17:22	10-03-2020 08:24	Clark St & Leland Ave	326	Southport Ave & Belmont Ave	154	casual	2342.23	Sunday	17
+28BEBF895B932242	25-03-2020 14:54	27-03-2020 14:46	Wabash Ave & Wacker Pl	194	Racine Ave & Randolph St	88	casual	2871.70	Wednesday	14
+5447F4F2522EB79B	09-03-2020 14:34	15-03-2020 13:39	Wabash Ave & Grand Ave	199	Ritchie Ct & Banks St	180	casual	8584.87	Monday	14
+00E0E125FFEE9249	17-03-2020 17:56	19-03-2020 07:24	Morgan St & 18th St	14	Indiana Ave & Roosevelt Rd	255	casual	2247.78	Tuesday	17
+B23A668C4791E695	31-03-2020 09:07	01-05-2020 02:11	Wabash Ave & Wacker Pl	194	Wells St & Walton St	46	casual	44224.20	Tuesday	9
+4CCDB339CCB50C0A	15-03-2020 13:03	17-03-2020 14:05	Michigan Ave & Ida B Wells Dr	45	Dusable Harbor	6	casual	2941.58	Sunday	13
+C4435E3DE8C1379E	05-03-2020 12:20	07-03-2020 11:59	Clark St & Armitage Ave	94	Clark St & North Ave	126	casual	2859.28	Thursday	12
+9D34CDF7E0684DEE	07-03-2020 11:54	10-03-2020 17:14	State St & Van Buren St	33	Clark St & Randolph St	51	casual	4640.32	Saturday	11
+06A62EF9A5C53AE1	19-03-2020 16:36	21-03-2020 20:18	Lake Park Ave & 56th St	345	MLK Jr Dr & 47th St	200	member	3101.22	Thursday	16
+897EC901A7475808	21-03-2020 15:33	01-04-2020 14:41	Logan Blvd & Elston Ave	258	Fairfield Ave & Roosevelt Rd	436	casual	15787.93	Saturday	15
+D526AB9A096E899D	08-03-2020 13:24	10-03-2020 15:20	Lake Park Ave & 35th St	406	Lake Park Ave & 35th St	406	casual	2995.77	Sunday	13
+3410C681D93B2813	27-03-2020 13:02	08-04-2020 04:43	Kingsbury St & Kinzie St	133	Kedzie Ave & Harrison St	433	casual	16781.23	Friday	13
+C38FF6A42077889D	14-03-2020 18:10	20-03-2020 02:05	Wabash Ave & Grand Ave	199	Paulina St & 18th St	205	casual	7674.97	Saturday	18
+2701D43279C4E539	14-03-2020 14:09	17-03-2020 18:00	Broadway & Granville Ave	454	Eastlake Ter & Rogers Ave	523	casual	4550.98	Saturday	14
+97042A2BD51EDBC2	17-03-2020 18:12	19-03-2020 14:00	Ashland Ave & Archer Ave	368	Blue Island Ave & 18th St	129	casual	2628.48	Tuesday	18
+E0DECCDC40B383C1	25-03-2020 17:29	26-03-2020 20:16	Clark St & Wellington Ave	156	Clark St & Wellington Ave	156	casual	1607.47	Wednesday	17
+B1C91836CE79738B	20-03-2020 12:27	21-03-2020 16:06	St. Clair St & Erie St	211	Kingsbury St & Erie St	74	casual	1658.73	Friday	12
+A98C5C1028578C40	11-03-2020 14:25	13-03-2020 18:30	California Ave & North Ave	276	Damen Ave & Pierce Ave	69	casual	3125.07	Wednesday	14
+1001A57ADC5B0066	07-03-2020 13:41	08-03-2020 18:17	LaSalle St & Jackson Blvd	283	Wabash Ave & Grand Ave	199	casual	1716.43	Saturday	13
+B78F54755CBD2D04	29-03-2020 16:26	02-04-2020 12:57	South Shore Dr & 74th St	399	Jeffery Blvd & 71st St	11	casual	5550.55	Sunday	16
+611362F737271922	01-03-2020 13:03	08-03-2020 14:05	Streeter Dr & Grand Ave	35	Buckingham Fountain	2	casual	10142.62	Sunday	13
+13ADB3FB957BDA7A	01-03-2020 13:31	03-03-2020 09:59	Clark St & Armitage Ave	94	Clark St & Drummond Pl	220	casual	2667.87	Sunday	13
+3FF587C5674F0C88	01-03-2020 14:24	31-03-2020 14:09	Canal St & Madison St	174	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	43185.52	Sunday	14
+B934BEE8A1F43F2D	08-03-2020 15:49	10-03-2020 08:52	Clark St & Schiller St	301	Lake Shore Dr & North Blvd	268	casual	2463.25	Sunday	15
+0BA26AF0637404D5	16-03-2020 08:38	21-03-2020 15:06	Glenwood Ave & Morse Ave	447	Clark St & Lunt Ave	432	casual	7588.32	Monday	8
+B2F8B40DF2BB0381	14-03-2020 00:47	24-03-2020 14:02	Honore St & Division St	17	Keystone Ave & Fullerton Ave	619	casual	15195.00	Saturday	0
+EB05B76F4665ED8C	07-03-2020 15:32	08-03-2020 18:25	Delano Ct & Roosevelt Rd	626	Wabash Ave & Roosevelt Rd	59	casual	1612.50	Saturday	15
+6C6C8CFB045D123C	27-03-2020 22:53	06-05-2020 14:50	Kostner Ave & Lake St	536	Central Ave & Harrison St	541	casual	57117.60	Friday	22
+73EEF0EDC74E4296	04-03-2020 16:06	06-03-2020 15:01	Kingsbury St & Kinzie St	133	Clinton St & Jackson Blvd	638	casual	2815.22	Wednesday	16
+D3423311EF6DBAB6	04-03-2020 22:49	07-03-2020 17:23	Lincoln Ave & Fullerton Ave	127	Damen Ave & Wellington Ave	162	casual	3993.40	Wednesday	22
+CD0F446DB9FA694C	24-03-2020 15:14	28-03-2020 11:06	63rd St Beach	101	63rd St Beach	101	casual	5511.93	Tuesday	15
+B6016686DF43B19F	19-03-2020 17:43	04-04-2020 18:17	Prairie Ave & Garfield Blvd	204	Kimbark Ave & 53rd St	322	casual	23074.72	Thursday	17
+C467DBF05AEAEA84	01-03-2020 17:57	05-03-2020 11:41	Michigan Ave & Jackson Blvd	284	State St & Van Buren St	33	casual	5383.87	Sunday	17
+D384BB5F0F6E502F	25-03-2020 14:35	28-03-2020 17:46	Franklin St & Jackson Blvd	36	Franklin St & Jackson Blvd	36	casual	4510.97	Wednesday	14
+D3DF33BE2A5F1D60	08-03-2020 18:07	29-03-2020 15:06	Broadway & Argyle St	295	Clark St & Elmdale Ave	457	casual	30058.62	Sunday	18
+3EE860C45338B32E	18-03-2020 11:40	20-03-2020 13:57	Michigan Ave & 14th St	168	Delano Ct & Roosevelt Rd	626	member	3016.75	Wednesday	11
+D88ED5AA74A58D7D	08-03-2020 18:32	10-03-2020 07:49	Buckingham Fountain	2	Buckingham Fountain	2	casual	2237.28	Sunday	18
+9B2974631725C0CB	01-03-2020 15:28	03-03-2020 09:03	Wells St & Concord Ln	289	Theater on the Lake	177	casual	2495.47	Sunday	15
+B3754DB7CA845D3B	10-03-2020 14:01	11-03-2020 19:55	Bissell St & Armitage Ave	113	Damen Ave & Pierce Ave	69	member	1794.22	Tuesday	14
+2F7E1B666D971E7B	22-03-2020 13:20	24-03-2020 13:04	Lakeview Ave & Fullerton Pkwy	313	Theater on the Lake	177	casual	2864.08	Sunday	13
+D2EC502B6913A257	25-03-2020 15:01	26-03-2020 18:24	Buckingham Fountain	2	Woodlawn Ave & 55th St	248	casual	1643.80	Wednesday	15
+77108D83F7DDA10B	08-03-2020 13:40	10-03-2020 08:10	Aberdeen St & Monroe St	80	Sangamon St & Washington Blvd	233	casual	2549.80	Sunday	13
+F4555B8C917E55D3	02-03-2020 17:57	06-05-2020 21:11	Halsted St & 63rd St	388	Calumet Ave & 33rd St	149	member	93793.52	Monday	17
+969189BCED3FDD66	07-03-2020 15:45	10-03-2020 17:19	Racine Ave & Randolph St	88	Franklin St & Adams St (Temp)	286	casual	4413.68	Saturday	15
+511776CE2BC2EDFE	15-03-2020 16:27	23-03-2020 11:28	LaSalle Dr & Huron St	627	Larrabee St & North Ave	27	casual	11221.18	Sunday	16
+4DBAA4F49CEB0AA2	14-03-2020 19:45	19-03-2020 11:08	Winchester Ave & Elston Ave	505	Ashland Ave & Division St	210	member	6683.38	Saturday	19
+CACFFD499B3CCCBB	25-03-2020 17:11	29-03-2020 08:46	Ashland Ave & Augusta Blvd	30	Ashland Ave & Augusta Blvd	30	member	5255.00	Wednesday	17
+374C3C5C47307BD8	13-03-2020 09:48	16-03-2020 08:23	Morgan St & Polk St	241	Laflin St & Cullerton St	208	casual	4234.15	Friday	9
+1FC6217D721E9869	17-03-2020 07:37	18-03-2020 13:50	Eckhart Park	86	Fairbanks Ct & Grand Ave	24	member	1812.95	Tuesday	7
+681214113EE8B3FA	05-03-2020 07:52	06-03-2020 11:57	Southport Ave & Wellington Ave	153	Sheffield Ave & Wellington Ave	115	casual	1685.00	Thursday	7
+9AC66C2709458F06	16-03-2020 17:30	18-03-2020 12:37	Shedd Aquarium	3	Lake Shore Dr & North Blvd	268	member	2586.42	Monday	17
+29E4D245EA95AEB5	19-03-2020 19:07	20-03-2020 19:39	Racine Ave & 13th St	136	Cornell Ave & Hyde Park Blvd	417	member	1472.00	Thursday	19
+95B37ADF6434E43C	26-03-2020 18:47	29-03-2020 18:54	Aberdeen St & Randolph St	621	Broadway & Cornelia Ave	303	casual	4327.17	Thursday	18
+489D48968F3FB928	08-03-2020 13:42	15-03-2020 12:40	Lincoln Park Conservatory	673	Racine Ave & 15th St	274	casual	10017.23	Sunday	13
+CFDBC89666E57785	08-03-2020 13:43	12-03-2020 07:38	Lincoln Park Conservatory	673	Western Ave & Monroe St	381	casual	5395.50	Sunday	13
+90B50C8AD79F6547	21-03-2020 18:59	23-03-2020 15:16	Wells St & Elm St	182	State St & Randolph St	44	casual	2657.70	Saturday	18
+7C51007EC42A053B	18-03-2020 20:11	22-03-2020 13:59	Lincoln Ave & Winona St	472	Ashland Ave & Grace St	347	member	5387.77	Wednesday	20
+B48E80795CDE8002	04-03-2020 17:51	06-03-2020 19:48	State St & Van Buren St	33	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	2997.22	Wednesday	17
+CF3880D5AEAB5715	12-03-2020 19:34	16-03-2020 08:42	State St & Randolph St	44	Clark St & Elm St	176	member	5108.18	Thursday	19
+1D7476FE2ED308F6	25-03-2020 15:57	28-03-2020 13:29	Chicago Ave & Washington St	597	Chicago Ave & Washington St	597	casual	4171.72	Wednesday	15
+591A41B26F26D3B4	16-03-2020 07:31	17-03-2020 07:43	Morgan St & 18th St	14	Rush St & Superior St	161	casual	1452.33	Monday	7
+EC32ED49B633108A	26-03-2020 21:04	21-04-2020 00:08	Halsted St & Archer Ave	206	Wood St & 35th St	369	casual	36183.57	Thursday	21
+8994CCC830A3DDF1	05-03-2020 14:01	07-03-2020 13:56	Greenwood Ave & 47th St	252	Woodlawn Ave & Lake Park Ave	413	casual	2874.62	Thursday	14
+7595B9FCB07118E1	12-03-2020 16:33	13-03-2020 17:51	Racine Ave & Fullerton Ave	87	Lincoln Ave & Diversey Pkwy	152	member	1517.50	Thursday	16
+224604F5992318FE	25-03-2020 13:41	28-03-2020 12:08	Rush St & Superior St	161	Desplaines St & Jackson Blvd	107	casual	4227.43	Wednesday	13
+2D63F8D00FE0F3E3	07-03-2020 17:39	08-03-2020 18:40	Streeter Dr & Grand Ave	35	Benson Ave & Church St	596	casual	1500.75	Saturday	17
+366D32DCB3998F0C	23-03-2020 17:05	30-03-2020 09:46	Millennium Park	90	Field Museum	97	casual	9640.50	Monday	17
+521ED57F8F53EA89	27-03-2020 19:12	06-05-2020 13:22	Delano Ct & Roosevelt Rd	626	Racine Ave & Randolph St	88	casual	57250.17	Friday	19
+1FF19F720624E6D4	24-03-2020 18:29	03-04-2020 13:55	Keystone Ave & Fullerton Ave	619	Kosciuszko Park	499	casual	14126.13	Tuesday	18
+925DE651C5984524	13-03-2020 12:40	15-03-2020 13:39	Wabash Ave & Grand Ave	199	Ritchie Ct & Banks St	180	casual	2939.03	Friday	12
+832EA2393B6BFDC9	13-03-2020 13:46	14-03-2020 17:04	Franklin St & Lake St	164	McClurg Ct & Illinois St	26	member	1637.15	Friday	13
+77FDCFF6FA4413C1	19-03-2020 10:24	20-03-2020 16:15	Larrabee St & Kingsbury St	48	Larrabee St & Division St	359	member	1790.58	Thursday	10
+E851BA536CC14A1F	09-03-2020 08:12	10-03-2020 10:28	Larrabee St & Oak St	364	Clark St & Randolph St	51	member	1576.10	Monday	8
+2C6697631D740F04	13-03-2020 10:38	14-03-2020 14:38	Logan Blvd & Elston Ave	258	Damen Ave & Wellington Ave	162	casual	1679.65	Friday	10
+3E39DEE8A0AADCE9	25-03-2020 17:40	31-03-2020 09:36	Albany Ave & Bloomingdale Ave	511	Albany Ave & Bloomingdale Ave	511	casual	8156.37	Wednesday	17
+812E25BCA56F41C3	06-03-2020 17:46	15-03-2020 12:19	Michigan Ave & Madison St	197	Sedgwick St & Webster Ave	143	casual	12632.47	Friday	17
+6BAA66DCBFBA75BF	02-03-2020 12:10	06-03-2020 07:53	Wabash Ave & Grand Ave	199	Wabash Ave & Grand Ave	199	casual	5502.88	Monday	12
+F9FD40B476A85E0D	28-03-2020 10:57	29-03-2020 11:00	Mies van der Rohe Way & Chestnut St	145	Lincoln Park Conservatory	673	member	1442.57	Saturday	10
+9FD30E9F1F03310C	11-03-2020 19:56	14-03-2020 17:20	Clark St & Chicago Ave	337	LaSalle Dr & Huron St	627	casual	4163.02	Wednesday	19
+3168A17A73D3C6FD	29-03-2020 15:13	30-03-2020 21:06	Elizabeth (May) St & Fulton St	217	Ashland Ave & Augusta Blvd	30	casual	1793.42	Sunday	15
+7D0079844BE9AA74	31-03-2020 12:46	02-04-2020 15:05	Paulina St & Howard St	515	Elmwood Ave & Austin St	598	member	3018.83	Tuesday	12
+94F2E0695A84F65C	28-03-2020 10:03	29-03-2020 14:24	Burling St (Halsted) & Diversey Pkwy (Temp)	332	Sheffield Ave & Fullerton Ave	67	member	1701.67	Saturday	10
+1E4172B5B26F596A	29-03-2020 13:32	30-03-2020 19:58	Stetson Ave & South Water St	264	Michigan Ave & Washington St	43	casual	1825.93	Sunday	13
+25D19C13AC997E53	26-03-2020 11:35	30-03-2020 12:53	Stetson Ave & South Water St	264	Halsted St & Willow St	224	casual	5837.42	Thursday	11
+B510893488937166	08-03-2020 15:31	15-03-2020 17:18	Clark St & Armitage Ave	94	Spaulding Ave & Armitage Ave	506	casual	10186.83	Sunday	15
+736B7208FC07F615	10-03-2020 14:57	12-03-2020 22:23	Wabash Ave & Grand Ave	199	Wabash Ave & Grand Ave	199	casual	3325.55	Tuesday	14
+2D4EA0D9064662D6	31-03-2020 09:07	02-04-2020 09:04	Wabash Ave & Wacker Pl	194	Michigan Ave & Washington St	43	casual	2876.82	Tuesday	9
+ABA42480A70E9712	09-03-2020 06:25	10-03-2020 08:57	Ada St & Washington Blvd	346	Damen Ave & Madison St	215	member	1592.82	Monday	6
+CD5487CBE9313CDF	08-03-2020 18:20	13-03-2020 19:52	Broadway & Thorndale Ave	458	Theater on the Lake	177	casual	7291.92	Sunday	18
+5143839057E53C41	01-03-2020 11:47	03-03-2020 09:14	Ashland Ave & Grace St	347	Southport Ave & Wellington Ave	153	casual	2726.38	Sunday	11
+567900FAFC3A97CA	11-03-2020 19:07	13-03-2020 12:23	Streeter Dr & Grand Ave	35	Theater on the Lake	177	casual	2476.12	Wednesday	19
+19A98880CC50F306	22-03-2020 15:09	27-03-2020 22:41	Cicero Ave & Lake St	529	Cicero Ave & Lake St	529	casual	7652.12	Sunday	15
+1FE82BE5A99308F4	01-03-2020 15:49	02-03-2020 16:02	Western Ave & Roscoe St	493	Sheffield Ave & Fullerton Ave	67	casual	1453.30	Sunday	15
+6EDC02ADD1BE098A	25-03-2020 12:41	27-03-2020 19:13	Lake Shore Dr & Belmont Ave	334	Columbus Dr & Randolph St	195	casual	3272.18	Wednesday	12
+E8EB42887BBC55A1	22-03-2020 11:41	28-03-2020 15:14	MLK Jr Dr & 29th St	237	MLK Jr Dr & 29th St	237	casual	8853.05	Sunday	11
+42119D92E740F9EA	10-03-2020 17:04	12-03-2020 15:54	Clark St & Wrightwood Ave	340	Ravenswood Ave & Lawrence Ave	344	member	2809.20	Tuesday	17
+F9B1C2E631310DC3	12-03-2020 10:48	13-03-2020 10:59	South Shore Dr & 74th St	399	Stony Island Ave & 67th St	102	casual	1450.73	Thursday	10
+8498B8531053896B	15-03-2020 01:41	16-03-2020 08:10	Rush St & Cedar St	172	Wells St & Evergreen Ave	291	member	1828.15	Sunday	1
+DA2B0A7CC0D79981	30-03-2020 09:42	31-03-2020 12:07	Lake Shore Dr & Belmont Ave	334	Broadway & Barry Ave	300	member	1585.15	Monday	9
+51F81FBB97967B5D	15-03-2020 14:43	19-03-2020 10:29	Dusable Harbor	6	Streeter Dr & Grand Ave	35	casual	5505.42	Sunday	14
+854760664F500C82	15-03-2020 03:53	18-03-2020 16:46	Ashland Ave & Lake St	119	Ashland Ave & 13th St	275	casual	5093.42	Sunday	3
+AC8936EEF7B9E2BD	01-03-2020 19:22	03-03-2020 10:24	LaSalle St & Jackson Blvd	283	Wabash Ave & 9th St	321	casual	2342.37	Sunday	19
+C29DBAD125947668	07-03-2020 15:17	16-03-2020 12:54	Adler Planetarium	341	HUBBARD ST BIKE CHECKING (LBS-WH-TEST)	671	casual	12817.03	Saturday	15
+1B1453F6B4695007	20-03-2020 08:27	22-03-2020 09:13	Montrose Harbor	249	Clarendon Ave & Leland Ave	251	member	2926.93	Friday	8
