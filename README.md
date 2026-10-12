@@ -1,6 +1,6 @@
 # Cyclistic Bike-Share Analytics: Maximizing Annual Memberships
 
-[![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Tableau-blue)](#tech-stack--workflow)
+[![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20Python%20%7C%20Tableau-blue)](#tech-stack--workflow)
 [![Case Study](https://img.shields.io/badge/Google%20Analytics-Capstone-orange)](#business-context--core-problem)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -29,7 +29,7 @@ Cyclistic's financial analysis determined that annual members generate significa
 ## Tech Stack & Workflow
 * **Microsoft Excel:** Legacy function testing, timestamp parsing, trip duration calculation, and preliminary spot audits.
 * **Python (Pandas, NumPy):** Large-scale data transformation, filtering out negative/test trip durations, datetime parsing, and geospatial station aggregation.
-* **Power BI & Tableau:** Interactive route mapping, hourly usage distributions, and rider segment comparison views.
+* **Tableau Public:** Interactive route mapping, hourly commute distributions, trip duration comparisons, and executive dashboard design.
 
 ---
 
