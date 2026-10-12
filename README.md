@@ -1,35 +1,60 @@
-# Cyclistic Bike-Share Case Study: Maximising Annual Memberships
+# Cyclistic Bike-Share Analytics: Maximizing Annual Memberships
 
-## Executive Summary 
-This case study evaluates historical trip data from Cyclistic, a fictional bike-share company in Chicago, to identify behavioural differences between casual and annual members. The final recommendations outline a targeted marketing strategy to increase annual membership conversions.
+[![Tools](https://img.shields.io/badge/Tools-Excel%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Tableau-blue)](#tech-stack--workflow)
+[![Case Study](https://img.shields.io/badge/Google%20Analytics-Capstone-orange)](#business-context--core-problem)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Business Problem & Core Questions
-Cyclistic's finance team established that annual members generate higher profit margins than casual riders. Rather than targeting entirely new customers, Marketing Director Lily Moreno wants to convert existing casual riders into members.
-* **Primary Question:** How do annual members and casual riders use Cyclistic bikes differently?
+---
 
-## Tools Used
-* **Data Inspection & Cleaning:** Microsoft Excel (Formulas, Conditional Formatting, Outlier filtering)
-* **Data Processing & Transformation:** Python(Pandas, NumPy)
-* **Interactive Visualization:** Tableau Public
+## Executive Summary
+This case study evaluates historical trip data from Cyclistic, a bike-share program in Chicago, to identify behavioral divergence between casual riders and annual members. The resulting analysis guides a targeted conversion strategy designed to turn high-margin recreational casual riders into long-term annual subscribers.
 
-## Key Insights 
-1. **Trip Purpose:** Annual members use bikes primarily for commuting, creating sharp usage peaks at 8:00 AM and 5:00 PM on weekdays with consistent durations of 10-12 minutes.
-2. **Leisure Patterns:** Casual riders ride primarily on weekdays (peaking Saturday afternoon) with average duration of 25-35+ minutes.
-3. **Geographic Concentration:** Casual trips originate heavily from lakefront and park stations, while member trips are distributed across commercial and residential hubs.
+### Key Performance Indicators
+* **Commuter Utilization:** Annual members display double daily commute peaks at **8:00 AM** and **5:00 PM** on weekdays.
+* **Trip Duration Disparity:** Casual riders average ride durations of **25–35+ minutes**, over 2x the consistent **10–12 minute** rides of members.
+* **Weekend Leisure Dominance:** Casual rider volume peaks heavily on Saturdays and Sundays, concentrated around lakefront recreation zones.
 
-## Dashboard Previews
-*<img width="1584" height="591" alt="Cyclistic_dashboard_image" src="https://github.com/user-attachments/assets/f671aef9-12b9-4fa6-bd3a-7f819a301fe5" />*
-![Cyclistic Dashboard]
+---
 
-**[View Interactive Tableau Public Dashboard](https://public.tableau.com/views/CyclisticExecutivePerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+## Business Context & Core Problem
+Cyclistic's financial analysis determined that annual members generate significantly higher profit margins than casual riders purchasing single-ride or day passes. Marketing leadership seeks to drive growth by converting existing casual riders rather than acquiring cold leads.
 
-## Repository Structure
-* `data/`: Clean summary metrics and aggregated datasets.
-* `python/`: Data cleaning scripts and Jupyter analysis notebooks.
-* `tableau/`: Link to the interactive dashboard.
-* `docs/`: Project documentation and dashboard visuals.
+* **Primary Business Questions:**
+  1. How do annual members and casual riders use Cyclistic bikes differently?
+  2. Why would casual riders be incentivized to buy an annual membership?
+  3. How can digital marketing channels influence casual riders to transition?
+
+---
+
+## Tech Stack & Workflow
+* **Microsoft Excel:** Legacy function testing, timestamp parsing, trip duration calculation, and preliminary spot audits.
+* **Python (Pandas, NumPy):** Large-scale data transformation, filtering out negative/test trip durations, datetime parsing, and geospatial station aggregation.
+* **Power BI & Tableau:** Interactive route mapping, hourly usage distributions, and rider segment comparison views.
+
+---
+
+## Key Analytical Insights
+* **Trip Purpose Disparity:** Annual members utilize bikes primarily for utility and office commuting (sharp weekday peaks at 8 AM and 5 PM), whereas casual riders display weekend afternoon leisure usage.
+* **Ride Duration Patterns:** Casual trips run 2–3x longer than member trips, indicating recreation, tourism, and casual exercise rather than point-to-point transit.
+* **Station Geographic Clustering:** Casual trips originate heavily along waterfront stations (lakefront, Navy Pier, city parks), while member activity remains distributed across central business hubs and transit links.
+
+---
 
 ## Strategic Recommendations
-1. **Weekend Member Pass:** Introduce a flexible weekend-tailored membership tier targeting recreational casual riders.
-2. **Post-Ride Savings Prompts:** Display in-app cost comparisons to casual riders after trips longer than 30 minutes.
-3. **Targeted Station Campaigns:** Focus seasonal digital ads and dockside branding on high-volume recreational stations along the lakefront.
+1. **Weekend Bridge Pass:** Introduce a flexible or seasonal membership tailored for weekend leisure riders, with pass credits that can be rolled over into full annual memberships.
+2. **Post-Ride Savings Prompts:** Display in-app savings summaries to casual riders following trips longer than 30 minutes, highlighting how much money an annual membership saves per ride.
+3. **Targeted Station Campaigns:** Concentrate seasonal digital ad spend, geo-targeted mobile pushes, and dockside physical branding at high-traffic recreational and lakefront stations.
+
+---
+
+## Repository Structure
+```text
+├── data/
+│   └── cyclistic_cleaned_trip.xls                     # Preprocessed trip data
+├── python/
+│   └── cyclistic_trips.ipynb                          # Data cleaning, wrangling, and duration anomaly filtering
+├── dashboards/
+│   └── cyclistic_executive_performance_dashboard.twbx # Tableau packaged workbook file
+├── docs/
+│   └── cyclistic_dashboard.png                        # High-resolution dashboard screenshot
+└── README.md
